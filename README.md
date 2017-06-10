@@ -271,7 +271,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ## Capabilities
 
 ### API Gateways / Edge Services
-
+- [Ambassador](http://www.getambassador.io) - Envoy based API gateway with rate limiting support for micro services. 
 - [Amalgam8](https://github.com/amalgam8) - Content-based routing fabric for polyglot microservices.
 - [Annon](https://github.com/nebo15/annon.api) - Open source API gateway with built-in API management, authentication and status pages written in Elixir.
 - [Caddy](https://caddyserver.com/) - Extensible HTTP/2 web server with automatic HTTPS.
